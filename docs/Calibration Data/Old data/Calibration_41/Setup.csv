@@ -1,0 +1,30 @@
+Ice Nucleation Version;1.4.11.87;;;;;;;
+;;;;;;;;
+Sample:;;;;;;;;
+Label;Calibration_41;;;;;;;
+Operator;MRJ;;;;;;;
+Date;2021_08_12_15-58;;;;;;;
+PCR type;24x16;;;;;;;
+;;;;;;;;
+Sample volume [µL];1;;;;;;;
+Temperature Gradient [°C/min];-1;;;;;;;
+Target Temperature [°C] ;-20;;;;;;;
+Starting Temp [°C];-20,459747;;;;;;;
+Ending Temp [°C];-20,519319;;;;;;;
+Test Duration [mm:ss];05:18;;;;;;;
+;;;;;;;;
+PID setup:;;;;;;;;
+Proportional Gain;1;;;;;;;
+Integral time (min);0,01;;;;;;;
+Derivative time (min);0;;;;;;;
+;;;;;;;;
+Calibration Values:;;;;;;;;
+B0_100;3711,1;3750,1;3743,8;3749,4;3976;3976;3976;3976
+R25;2,3216;2,2652;2,2634;2,2634;2,252;2,252;2,252;2,252
+R_S;10;;;;;;;
+;;;;;;;;
+Notes:;;;;;;;;
+Thermistor 2,3,4 inserted into calibrator;;;;;;;;
+Thermistor 8: reference voltage;;;;;;;;
+AMETEK Calibrator;;;;;;;;
+SN: 660141-00935;;;;;;;;

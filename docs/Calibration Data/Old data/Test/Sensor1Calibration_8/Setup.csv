@@ -1,0 +1,22 @@
+Ice Nucleation Version;0.0.0.1;;Partition;Description;; ;1;2;3;4;5;6;7;8;9;10;11;12
+;;;A;35%;;A;A;A;A;B;B;B;B;B;B;B;B;B
+Sample:;;;B;15%;;B;A;A;A;B;B;B;B;B;B;B;B;B
+Label;Sensor1Calibration_8;;C;5%;;C;A;A;A;B;B;B;B;B;B;B;B;B
+Operator;MRJ;;D;35%;;D;A;A;A;C;C;C;D;D;D;D;D;D
+Date;2021_06_29-11-29-37-991;;E;Test sample;;E;A;A;A;C;C;C;D;D;D;D;D;D
+PCR type;12x8;;F;High Concentration;;F;A;A;A;C;C;C;E;E;F;F;G;G
+;;;G;Low Concentration;;G;A;A;A;C;C;C;E;E;F;F;G;G
+Sample volume [µL];1,00;;X;Empty;;H;A;A;A;C;C;C;E;E;F;F;G;G
+Temperature Gradient [°C/min];1,00;;;;;;;;;;;;;;;;;
+Target Temperature [°C] ;0,00;;;;;;;;;;;;;;;;;
+Starting Temp [°C];21,400313;;;;;;;;;;;;;;;;;
+Ending Temp [°C];Ending_Temp;;;;;;;;;;;;;;;;;
+Test Duration [mm:ss];Test_Duration;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+Notes;
+;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+PID setup:;;;;;;;;;;;;;;;;;;
+Proportional Gain;1,000000;;;;;;;;;;;;;;;;;
+Integral time (min);0,010000;;;;;;;;;;;;;;;;;
+Derivative time (min);0,000000;;;;;;;;;;;;;;;;;

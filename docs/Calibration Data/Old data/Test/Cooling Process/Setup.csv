@@ -1,0 +1,23 @@
+Ice Nucleation Version;0.0.0.17;;Partition;Description;; 
+;;;A;;;
+Sample:;;;B;;;
+Label;Cooling Process;;C;;;
+Operator;MRJ;;D;;;
+Date;2021_07_01-11-15-59-322;;E;;;
+PCR type;24x16;;F;;;
+;;;G;;;
+Sample volume [µL];1,00;;X;;;
+Temperature Gradient [°C/min];1,00;;;;;
+Target Temperature [°C] ;5,00;;;;;
+Starting Temp [°C];11,285954;;;;;
+Ending Temp [°C];Ending_Temp;;;;;
+Test Duration [mm:ss];Test_Duration;;;;;
+;;;;;;
+Notes;
+Thermistor 2,3,4,5 connected
+Thermistor 1 = reference voltage;;;;;
+;;;;;;
+PID setup:;;;;;;
+Proportional Gain;1,000000;;;;;
+Integral time (min);0,010000;;;;;
+Derivative time (min);0,000000;;;;;
